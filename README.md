@@ -14,6 +14,7 @@
 
 - gg docs: https://docs.google.com/document/d/1lytdr8bPy4yr3axkIzReMsLW0ggX59VFyeBbwtSu4gs/edit?usp=sharing
 - IPFS: https://bafybeig2t3x5oss4lsyd4u2c2x3exrv7kthm7zvghhcrbk55d3n3evnmtm.ipfs.w3s.link/my-post.html
+- https://julienbrg.github.io/black-page-v1/my-post.html
 
 ## Support
 
