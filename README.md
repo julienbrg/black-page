@@ -1,20 +1,34 @@
-# Black Page v1
+# The Black Page
 
 ## Motivation
 
-- Testing html stuffs
-- Testing Github Pages
+- Testing html and css stuffs
+- Testing [Web3.Storage](https://web3.storage/) (IPFS + Filecoin)
 
 ## Install
 
+Create a `.env` file on the model of [`.env.example`](https://github.com/julienbrg/black-page-v1/blob/main/.env.example), then:
+
+```bash
+npm i
+```
+
+## Setup
+
 - Edit your text in Google Doc
-- Export to html
+- Export to html (`File` > `Download` > `Web page`)
+
+## Run
+
+```bash
+node upload.js
+```
 
 ## Resources
 
-- gg docs: https://docs.google.com/document/d/1lytdr8bPy4yr3axkIzReMsLW0ggX59VFyeBbwtSu4gs/edit?usp=sharing
-- IPFS: https://bafybeig2t3x5oss4lsyd4u2c2x3exrv7kthm7zvghhcrbk55d3n3evnmtm.ipfs.w3s.link/my-post.html
-- https://julienbrg.github.io/black-page-v1/my-post.html
+- Google doc: https://docs.google.com/document/d/1lytdr8bPy4yr3axkIzReMsLW0ggX59VFyeBbwtSu4gs/edit?usp=sharing
+- IPFS (Web3.Storage): **https://bafybeicqxwjqbwyenja2yoqzgbupr5y6u62aqvl6mlk4nh3hingbwvi4du.ipfs.w3s.link/my-post.html**
+- Github pages: https://julienbrg.github.io/black-page-v1/my-post.html
 
 ## Support
 

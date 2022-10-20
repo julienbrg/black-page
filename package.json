@@ -1,8 +1,8 @@
 {
   "name": "black-page-v1",
   "version": "1.0.0",
-  "description": "Black Page",
-  "main": "index.ts",
+  "description": "The Black Page",
+  "main": "upload.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,14 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/julienbrg/black-page-v1.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["ipfs", "web3"],
+  "author": "Julien Béranger",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/julienbrg/black-page-v1/issues"
   },
   "homepage": "https://github.com/julienbrg/black-page-v1#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "files-from-path": "^0.2.6",
     "web3.storage": "^4.4.0"
-  }
+  },
+  "type": "module"
 }
