@@ -1,0 +1,23 @@
+{
+  "name": "black-page-v1",
+  "version": "1.0.0",
+  "description": "Black Page",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienbrg/black-page-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/julienbrg/black-page-v1/issues"
+  },
+  "homepage": "https://github.com/julienbrg/black-page-v1#readme",
+  "dependencies": {
+    "web3.storage": "^4.4.0"
+  }
+}
