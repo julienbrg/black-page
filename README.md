@@ -32,7 +32,7 @@ node upload.js
 
 - Google doc: https://docs.google.com/document/d/1lytdr8bPy4yr3axkIzReMsLW0ggX59VFyeBbwtSu4gs/edit?usp=sharing
 - IPFS (Web3.Storage): **https://bafybeihfsyjq6sxnlfchmpxrj2gcpjfdbxxihf5xfzgj2pw2rqxpralw3a.ipfs.w3s.link/my-post.html**
-- Github pages: https://julienbrg.github.io/black-page/my-post.html
+- Github pages: https://julienbrg.github.io/black-page/page/my-post.html
 
 ## Support
 
