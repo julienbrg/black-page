@@ -1,9 +1,13 @@
 # The Black Page
 
+Edit your post and publish it on IPFS.
+
 ## Motivation
 
 - Testing html and css stuffs
-- Testing [Web3.Storage](https://web3.storage/) (IPFS + Filecoin)
+- Testing [Web3.Storage](https://web3.storage) (IPFS + Filecoin)
+- Testing this in combination with NFT
+- Testing [Orbis](https://orbis.club) and/or [Ceramic](https://ceramic.network) for privacy
 
 ## Install
 
