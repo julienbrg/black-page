@@ -11,7 +11,7 @@ Edit your post and publish it on IPFS.
 
 ## Install
 
-Create a `.env` file on the model of [`.env.example`](https://github.com/julienbrg/black-page-v1/blob/main/.env.example), then:
+Create a `.env` file on the model of [`.env.example`](https://github.com/julienbrg/black-page/blob/main/.env.example), then:
 
 ```bash
 npm i
@@ -32,7 +32,7 @@ node upload.js
 
 - Google doc: https://docs.google.com/document/d/1lytdr8bPy4yr3axkIzReMsLW0ggX59VFyeBbwtSu4gs/edit?usp=sharing
 - IPFS (Web3.Storage): **https://bafybeihfsyjq6sxnlfchmpxrj2gcpjfdbxxihf5xfzgj2pw2rqxpralw3a.ipfs.w3s.link/my-post.html**
-- Github pages: https://julienbrg.github.io/black-page-v1/my-post.html
+- Github pages: https://julienbrg.github.io/black-page/my-post.html
 
 ## Support
 
