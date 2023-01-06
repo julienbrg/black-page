@@ -26,4 +26,4 @@ async function storeFiles(files) {
 const cid = await storeFiles(await getFiles(dir))
 
 console.log("✅ cid:", cid)
-console.log("✅ url:", "https://" + cid + ".ipfs.w3s.link/my-post.html")
+console.log("✅ url:", "https://" + cid + ".ipfs.w3s.link")
