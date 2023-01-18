@@ -25,7 +25,7 @@ npm i
 ## Run
 
 ```bash
-node upload.js
+node upload.ts
 ```
 
 ## Resources
