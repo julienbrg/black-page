@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/julienbrg/black-page/issues"
   },
-  "homepage": "https://github.com/julienbrg/black-page#readme",
+  "homepage": "https://julienbrg.github.io/black-page",
   "dependencies": {
     "dotenv": "^16.0.3",
     "files-from-path": "^0.2.6",
