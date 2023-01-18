@@ -17,9 +17,9 @@
   "author": "Julien Béranger",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/julienbrg/black-page-v1/issues"
+    "url": "https://github.com/julienbrg/black-page/issues"
   },
-  "homepage": "https://github.com/julienbrg/black-page-v1#readme",
+  "homepage": "https://github.com/julienbrg/black-page#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "files-from-path": "^0.2.6",
