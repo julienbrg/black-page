@@ -31,8 +31,8 @@ node upload.js
 ## Resources
 
 - Google doc: https://docs.google.com/document/d/1lytdr8bPy4yr3axkIzReMsLW0ggX59VFyeBbwtSu4gs/edit?usp=sharing
-- IPFS (Web3.Storage): **https://bafybeihfsyjq6sxnlfchmpxrj2gcpjfdbxxihf5xfzgj2pw2rqxpralw3a.ipfs.w3s.link/my-post.html**
-- Github pages: https://julienbrg.github.io/black-page/page/my-post.html
+- IPFS (Web3.Storage): **https://bafybeibg52zfoixkdlsgcsya6k3au4pvvlkxuzu5u6cahh5wdlm5rfidwe.ipfs.w3s.link**
+- Github pages: https://julienbrg.github.io/black-page/page/
 
 ## Support
 
