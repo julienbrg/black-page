@@ -2,7 +2,7 @@
   "name": "black-page",
   "version": "1.0.0",
   "description": "The Black Page",
-  "main": "upload.ts",
+  "main": "upload.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
