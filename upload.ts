@@ -7,7 +7,7 @@ function getAccessToken() {
 }
 
 function makeStorageClient() {
-    return new Web3Storage({ token: getAccessToken() })
+    return new Web3Storage({ token: getAccessToken() || "" })
 }
 
 const dir = "./page/"
